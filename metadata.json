@@ -1,0 +1,6 @@
+{
+  "name": "Verity Vault",
+  "description": "AI Knowledge Base & Team Workspace with pgvector RAG, WebSocket streaming, RBAC, and Admin observability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
